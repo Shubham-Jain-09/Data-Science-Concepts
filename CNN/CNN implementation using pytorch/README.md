@@ -1,4 +1,4 @@
-This notebook is for basic intro of how you can implement image processing task through CNN using Pytorch as Neural Network API. 
+This notebook is for basic intro of how you can implement image processing task through CNN using Pytorch as Neural Network Framework. 
 
 This is just like a Hello World program which we all implement when we first start coding same goes with deep learning or computer vision 
 to be precise we use the dataset which is common on which we can train our model easily.
